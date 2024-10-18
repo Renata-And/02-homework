@@ -33,23 +33,23 @@ export type MessageType = {
 export const message0: MessageType = {
   id: 0,
   user: {
-    avatar: avatar, // можно менять
-    name: 'Renata',  // можно менять
+    avatar: avatar,
+    name: 'Renata',
   },
   message: {
-    text: `some textsome textsome textsome textsome textsome`, // можно менять
-    time: '22:00', // можно менять
+    text: `some textsome textsome textsome textsome textsome`,
+    time: '22:00',
   },
 }
 export const friendMessage0: MessageType = {
   id: 100,
   user: {
-    avatar: avatar, // можно менять
-    name: 'Katya', // можно менять
+    avatar: avatar,
+    name: 'Katya',
   },
   message: {
-    text: 'зеркальное сообщение для тренировки css', // можно менять
-    time: '22:00', // можно менять
+    text: 'зеркальное сообщение для тренировки css',
+    time: '22:00',
   },
 }
 

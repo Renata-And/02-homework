@@ -1,24 +1,68 @@
 .sidebar {
+    transition: 0.5s ease-in-out;
+    width: 320px;
+    position: fixed;
+    left: -100%;
+    top: 0;
+    bottom: 0;
+    z-index: 9;
+    background-color: #fff;
+    box-shadow: 0 10px 40px 0 #1D212621;
 }
 
 .sidebar.open {
+    left: 0;
 }
 
 .background {
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.5;
+    z-index: 8;
 }
 
 .nav {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    margin-top: 70px;
+    margin-left: 70px;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
 }
 
 .nav a {
+    color: #000000;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
 }
 
 .nav a:hover {
+    color: #58ACFF;
 }
 
 .nav a.active {
+    color: #0059B2;
+    text-decoration: underline;
 }
+
+.nav a:focus {
+    color: #3D6B99;
+}
+
 .close {
+    width: 24px;
+    height: 24px;
+    border: none;
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    background-color: #fff;
 }
 
 .close img {

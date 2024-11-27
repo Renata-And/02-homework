@@ -1,7 +1,9 @@
 .radio {
+    margin-right: 10px;
 }
 
 .radio::before {
+
 }
 
 
@@ -12,4 +14,7 @@
 }
 
 .options {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }

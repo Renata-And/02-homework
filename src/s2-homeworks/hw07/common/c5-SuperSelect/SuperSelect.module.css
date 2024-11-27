@@ -1,4 +1,9 @@
 .select {
+    width: 180px;
+    padding: 3px 10px;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 .select:focus {

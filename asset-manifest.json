@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/02-homework/static/css/main.6ad41dfd.css",
-    "main.js": "/02-homework/static/js/main.99fbdd01.js",
+    "main.css": "/02-homework/static/css/main.adb081f6.css",
+    "main.js": "/02-homework/static/js/main.d29320bf.js",
     "static/js/787.66cb4309.chunk.js": "/02-homework/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/02-homework/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/02-homework/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/editIcon.svg": "/02-homework/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/checked.svg": "/02-homework/static/media/checked.b75ca55e8759862b4083.svg",
     "static/media/burger.svg": "/02-homework/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.6ad41dfd.css.map": "/02-homework/static/css/main.6ad41dfd.css.map",
-    "main.99fbdd01.js.map": "/02-homework/static/js/main.99fbdd01.js.map",
+    "static/media/up-down.svg": "/02-homework/static/media/up-down.9aa84c00c0de4ae1d730cc8da89c004d.svg",
+    "static/media/down.svg": "/02-homework/static/media/down.89316c4f04f8fc763291ffeac38c813b.svg",
+    "static/media/up.svg": "/02-homework/static/media/up.2ae5e85bf6c28fad27ae2add8d8907e6.svg",
+    "main.adb081f6.css.map": "/02-homework/static/css/main.adb081f6.css.map",
+    "main.d29320bf.js.map": "/02-homework/static/js/main.d29320bf.js.map",
     "787.66cb4309.chunk.js.map": "/02-homework/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ad41dfd.css",
-    "static/js/main.99fbdd01.js"
+    "static/css/main.adb081f6.css",
+    "static/js/main.d29320bf.js"
   ]
 }

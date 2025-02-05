@@ -1,11 +1,29 @@
 .pagination {
     display: flex;
+    align-items: center;
+    margin: 35px 0;
+}
+
+.text1, .text2 {
+    color: #0D0B0C;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 .text1 {
-
+    text-transform: capitalize;
+    margin-left: 24px;
 }
 
-.text2 {
-
+.select {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    width: 50px;
+    padding: 4px;
+    border-color: #ECEBEB;
+    outline: none;
+    margin-left: 10px;
+    margin-right: 10px;
 }
